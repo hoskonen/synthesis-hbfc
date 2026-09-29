@@ -1,0 +1,6 @@
+{
+  "AddGitPatcher": {
+    "Url": "https://github.com/hoskonen/synthesis-hbfc",
+    "SelectedProject": "HBFC\\HBFC.csproj"
+  }
+}
